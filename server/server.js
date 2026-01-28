@@ -30,7 +30,7 @@ app.get('/', (req, res) => {
 
 
 
-app.use('/api/user', requireAuth(), userRouter)
+app.use('/api/user', userRouter)
 app.use('/api/ai', requireAuth(), aiRouter)
 
 const PORT = process.env.PORT || 3000

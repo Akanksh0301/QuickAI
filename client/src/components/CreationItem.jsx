@@ -31,7 +31,7 @@ const CreationItem = ({ item }) => {
             <img
               src={item.content}
               alt="creation"
-              className="w-full max-h-[500px] object-contain rounded-md border"
+              className="w-full aspect-[4/5] object-cover rounded-md border"
               loading="lazy"
             />
           ) : (

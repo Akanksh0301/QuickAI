@@ -2,10 +2,6 @@
 
 QuickAI is a **full-stack AI SaaS application** that allows users to generate AI content such as articles, blog titles, images, resume reviews, and image transformations. It also includes a **community page** where users can explore published creations.
 
-🔗 **Live Demo**  
-- Frontend: https://quick-ai-nine-liart.vercel.app  
-- Backend: https://quick-ai-server-neon.vercel.app  
-
 ---
 
 ## ✨ Features

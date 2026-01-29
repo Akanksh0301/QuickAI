@@ -28,12 +28,14 @@ const CreationItem = ({ item }) => {
         <div className="mt-3">
           {/* ✅ IMAGE */}
           {item.type === 'image' ? (
-            <img
-              src={item.content}
-              alt="creation"
-              className="w-full h-auto max-h-[420px] object-contain rounded-md border"
-              loading="lazy"
-            />
+            <div className="mt-3 flex justify-center">
+  <img
+    src={item.content}
+    alt="creation"
+    className="w-full max-w-3xl h-auto max-h-[420px] object-contain rounded-md border"
+    loading="lazy"
+  />
+</div>
           ) : (
             /* ✅ TEXT / ARTICLE */
             <div className="reset-tw">

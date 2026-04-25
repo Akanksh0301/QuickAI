@@ -1,29 +1,29 @@
-# 🚀 QuickAI
+# QuickAI
 
 QuickAI is a **full-stack AI SaaS application** that allows users to generate AI content such as articles, blog titles, images, resume reviews, and image transformations. It also includes a **community page** where users can explore published creations.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔐 Authentication
+### Authentication
 - Secure authentication using **Clerk**
 - Protected routes for all AI and user actions
 - User-specific content tracking
 
 ---
 
-### 🤖 AI Tools
-- ✍️ Generate articles  
-- 📰 Generate blog titles  
-- 🎨 Generate AI images  
-- 🧼 Remove image background  
-- ✂️ Remove objects from images  
-- 📄 Resume review using AI  
+### AI Tools
+-  Generate articles  
+-  Generate blog titles  
+-  Generate AI images  
+- Remove image background  
+-  Remove objects from images  
+- Resume review using AI  
 
 ---
 
-### 🌍 Community Page
+### Community Page
 - View **published creations** from all users  
 - Like / unlike community posts  
 - Click-to-expand cards  
@@ -31,14 +31,14 @@ QuickAI is a **full-stack AI SaaS application** that allows users to generate AI
 
 ---
 
-### 📦 User Dashboard
+###  User Dashboard
 - View personal AI creations  
 - Publish or unpublish creations  
 - Track generated content history  
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 ### Frontend
 - React (Vite)
@@ -63,6 +63,6 @@ QuickAI is a **full-stack AI SaaS application** that allows users to generate AI
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 <img width="411" height="666" alt="image" src="https://github.com/user-attachments/assets/c9fd0919-fa9a-40c5-800f-9662e60ac0e3" />
